@@ -3,7 +3,7 @@
 ## Part 1 — Install Git and VSCode
 
 ### 1.1 Install Git
-
+**Skip if already installed (Git is different from github account)**
 Git is the tool that tracks and uploads your code.
 
 1. Go to **[https://git-scm.com/downloads](https://git-scm.com/downloads)**
@@ -170,6 +170,7 @@ You should see a list of files being committed. ✅
 This uploads everything to GitHub. The `-u origin main` part sets GitHub as the default destination for future pushes:
 
 ```bash
+git branch -M main
 git push -u origin main
 ```
 
@@ -211,7 +212,7 @@ Before pushing any changes to GitHub, you can preview the website live on your o
 ---
 
 ### 5.1 Install Node.js and npm
-
+**Skip if already installed**
 npm (the tool that installs and runs the website) comes bundled with Node.js.
 
 1. Go to **[https://nodejs.org](https://nodejs.org)**
