@@ -106,28 +106,16 @@ export const PHD = [
 
 export const MASTERS = [
   {
-    name:     'Ananya Reddy',
-    role:     'M.Tech. Research — CSE',
-    degree:   'B.Tech., JNTU Hyderabad',
-    focus:    'Seed-selection heuristics for influence maximization in heterogeneous networks.',
-    email:    null,
+    name:     'Vabhika Rishi',
+    role:     'M.Tech.',
+    degree:   'M.Tech., IIT Delhi',
+    focus:    'Paleoclimatology.',
+    email:    'ast222326@iitd.ac.in,
     image:    null,
     link:     null,
     scholar:  null,
     linkedin: null,
     cv:       null,
-  },
-  {
-    name:     'Karthik Suresh',
-    role:     'M.Tech. Research — CSE',
-    degree:   'B.E., Anna University',
-    focus:    'Real-time community detection on dynamic social graphs.',
-    email:    null,
-    image:    null,
-    link:     'https://example.com/karthik-suresh',
-    scholar:  'https://scholar.google.com/',
-    linkedin: 'https://linkedin.com/',
-    cv:       'https://example.com/cv.pdf',
   },
 ]
 
