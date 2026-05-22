@@ -30,9 +30,9 @@ export const FACULTY = [
     email:    'ydixit@cas.iit.ac.in',
     image:    'yama dixit.png',
     link:     'https://web.iitd.ac.in/~ydixit/',       
-    scholar:  'https://scholar.google.com/',
+    scholar:  'https://scholar.google.com/citations?user=_HrQ4CsAAAAJ&hl=en&oi=ao',
     linkedin: 'https://linkedin.com/',
-    cv:       'https://example.com/cv.pdf',
+    cv:       'https://web.iitd.ac.in/~ydixit/',
   },
 ]
 
