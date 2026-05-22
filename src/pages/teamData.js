@@ -52,7 +52,7 @@ export const PHD = [
     cv:       null,                                   
   },
   {
-    name:     'Divya Sharma',
+    name:     'Soham Ali Khan',
     role:     'Ph.D. Scholar — 1st Year',
     degree:   'B.E., BITS Pilani',
     focus:    'Fairness-aware ranking algorithms and bias auditing in recommender systems.',
