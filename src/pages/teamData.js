@@ -40,11 +40,12 @@ export const FACULTY = [
 
 export const PHD = [
   {
-    name:     'Priya Nair',
-    role:     'Ph.D. Scholar — 3rd Year',
-    degree:   'B.Tech., NIT Trichy',
-    focus:    'Temporal graph streaming and incremental shortest-path algorithms.',
-    email:    'dummy@iit.ac.in',
+    name:     'Anubhav Singh',
+    role:     'Ph.D. Scholar — 4th Year',
+    degree:   'B.Sc., University of Allahabad',
+    degree:   'M.Sc., NIT Rourkela',
+    focus:    'water isotope study and paleoclimate analysis',
+    email:    'asz228031@iitd.ac.in',
     image:    null,
     link:     null,                                   
     scholar:  'https://scholar.google.com/',          
