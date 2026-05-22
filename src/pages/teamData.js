@@ -47,10 +47,10 @@ export const PHD = [
     focus:    'water isotope study and paleoclimate analysis',
     email:    'asz228031@iitd.ac.in',
     image:    null,
-    link:     null,                                   
+    link:     'https://sites.google.com/view/anubhav-singh-126/home',                                   
     scholar:  'https://scholar.google.com/',          
-    linkedin: null,                                   
-    cv:       null,                                   
+    linkedin: 'https://www.google.com/url?q=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fanubhav-singh-aa077b1aa%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_profile_view_base_contact_details%253BWHQlwDbFRuusMOneAIrp%252Fg%253D%253D&sa=D&sntz=1&usg=AOvVaw3eQL03u2vXMgx5w8-pqCm7',                                   
+    cv:       'https://drive.google.com/file/d/1WaC4akIyijYKQQF485OcYGGT1sWinB15/view?usp=sharing',                                   
   },
   {
     name:     'Soham Ali Khan',
